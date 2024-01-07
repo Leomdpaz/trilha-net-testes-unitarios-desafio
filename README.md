@@ -1,4 +1,13 @@
-# DIO - Trilha .NET - Testes Unitários com C#
+<h1 align="center">DIO - Trilha .NET - Testes Unitários com C#</h1>
+
+<h1 align="center">RESOLVIDO ✔</h1> 
+Projeto desenvolvido junto à <strong><a href="https://github.com/digitalinnovationone">@digitalinnovationone</a></strong> na <em>Trilha .NET</em> durante o Bootcamp Decola Tech Avanade.
+
+ O  objetivo foi implementar <strong><em>Testes Unitários</em></strong> com C#. Visando assim, melhorar a qualidade do sistema e por em prática os conhecimentos adquiridos no módulo das aulas do bootcamp.
+<hr>
+
+<h1 align="center">Apresentação do desafio 👨‍💻</h1> 
+
 www.dio.me
 
 ## Desafio de projeto
@@ -79,3 +88,5 @@ O projeto está estruturado da seguinte maneira:
 
 ## Solução
 O código de testes está pela metade, e você deverá dar continuidade implementando os testes descritos acima, para que no final, tenhamos um programa de testes funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+<h1 align="center">Código completo ✔</h1>

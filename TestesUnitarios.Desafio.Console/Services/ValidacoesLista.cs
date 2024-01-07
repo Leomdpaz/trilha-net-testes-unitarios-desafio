@@ -1,17 +1,19 @@
+using System.Collections.Generic;
+using System.Linq;
+
 namespace TestesUnitarios.Desafio.Console.Services
 {
     public class ValidacoesLista
     {
         public List<int> RemoverNumerosNegativos(List<int> lista)
         {
-            var listaSemNegativos = lista.Where(x => x > 0);
-            return listaSemNegativos.ToList();
+            var listaSemNegativos = lista.Where(x => x > 0).ToList();
+            return listaSemNegativos;
         }
 
         public bool ListaContemDeterminadoNumero(List<int> lista, int numero)
         {
-            var contem = lista.Contains(numero);
-            return contem;
+            return lista.Contains(numero);
         }
 
         public List<int> MultiplicarNumerosLista(List<int> lista, int numero)
